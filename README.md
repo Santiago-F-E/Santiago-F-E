@@ -2,7 +2,7 @@
 #### I am Software Developer
 Technologist in analysis and development of information systems. with knowledge of programming languages: PHP, Javascript, CSS, JS and Node.js. with the use of database management systems such as: mysql, mongodb and firebase
 
-Skills: CSS / PHP / JS / HTML / CSS
+Skills: CSS / PHP / JS / HTML 
 
 
 
